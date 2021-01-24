@@ -27,13 +27,13 @@ Użytkownik loguje się do systemu za pomocą swojego konta
    2. System informuje użytkownika o błędzie i blokuje opcję "Wyślij"
 6. System wyświetla informację, że wniosek został utworzony i przenosi użytkownika do strony głównej
 
-### Plan testu:
+### Scenariusz testowy dla powyższego przypadku użycia:
 |Numer|Wymaganie|Rezultat|Komentarz|
 |---|---|---|---|
-|1.|Użytkownik może odwiedzić stronę z formularzem tworzącym wniosek|   |   |
-|2.|Użytkownik może podać cel, trasę, daty oraz inne wymagane dane opisujące delegacje|   |   |
-|3.|Użytkownik zapisać wrowadzone dane|   |   |
-|4.|Zapisany wniosek jest widoczny na liście wysłanych wniosków|   |   |
-|5.|System informuje użytkownika jeśli popełnił błąd podczas wypełniania formularza|   |   |
-|6.|Wysłany wniosek jest widoczny w panelu przełożonego|   |   |
-|7.|Przełożony otrzymał wiadomość e-mail z informacją o nowym wniosku do rozpatrzenia|   |   |
+|1.|Użytkownik może odwiedzić stronę z formularzem tworzącym wniosek| [ ] |   |
+|2.|Użytkownik może podać cel, trasę, daty oraz inne wymagane dane opisujące delegacje| [ ] |   |
+|3.|Użytkownik zapisać wrowadzone dane| [ ] |   |
+|4.|Zapisany wniosek jest widoczny na liście wysłanych wniosków| [ ] |   |
+|5.|System informuje użytkownika jeśli popełnił błąd podczas wypełniania formularza| [ ] |   |
+|6.|Wysłany wniosek jest widoczny w panelu przełożonego| [ ] |   |
+|7.|Przełożony otrzymał wiadomość e-mail z informacją o nowym wniosku do rozpatrzenia| [ ] |   |
