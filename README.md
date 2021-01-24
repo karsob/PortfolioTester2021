@@ -1,0 +1,2 @@
+# ZadanieTesterDelegacje
+Repozytorium zawierające rozwiązanie zadania rekrutacyjnego
