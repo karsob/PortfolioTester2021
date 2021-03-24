@@ -1,4 +1,4 @@
-# ZadanieTesterDelegacje
+# PorfolioTester
 Repozytorium zawiera zgłoszenia błędów aplikacji webowej obiegu dokumentów w przedsiębiorstwie.
 Screenshoty zgłoszeń zostały usunięte.
 
