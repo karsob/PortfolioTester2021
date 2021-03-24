@@ -44,4 +44,4 @@ Użytkownik loguje się do systemu za pomocą swojego konta
 
 ## Dodatkowe projekty
 1. [Dokumentacja techniczna strony logowania Google Accounts](https://docs.google.com/document/d/1d-hRh7o3G3aEorWpolVxUAhZmmRWtQ4PwCb4Xjqr-HE/edit?usp=sharing)
-2. [Scenariusze testowe i błędy strony logowania](https://docs.google.com/spreadsheets/d/1LT2JtvqrSlSXxnVMTA1h44Mfv5aKmXaOLm_AhHKbPek/edit?usp=sharing)
+2. [Scenariusze testowe i błędy przykładowej strony logowania](https://docs.google.com/spreadsheets/d/1LT2JtvqrSlSXxnVMTA1h44Mfv5aKmXaOLm_AhHKbPek/edit?usp=sharing)
