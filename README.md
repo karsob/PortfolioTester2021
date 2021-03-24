@@ -1,5 +1,6 @@
 # ZadanieTesterDelegacje
-Repozytorium zawierające rozwiązanie zadania rekrutacyjnego
+Repozytorium zawiera zgłoszenia błędów aplikacji webowej do obiegu dokumentów w przedsiębiorstwie.
+Screenshoty zgłoszeń zostały usunięte.
 
 ## Zadanie 1.
 Rozwiązanie zadania numer 1 znajduje się w zakładce "Issues" tego repozytorium. Każdy znaleziony przezemnie błąd został odzwierciedlony w postaci osobnego ticketu.
@@ -32,7 +33,7 @@ Użytkownik loguje się do systemu za pomocą swojego konta
 |---|---|---|---|
 |1.|Użytkownik może odwiedzić stronę z formularzem tworzącym wniosek|   |   |
 |2.|Użytkownik może podać cel, trasę, daty oraz inne wymagane dane opisujące delegacje|   |   |
-|3.|Użytkownik zapisać wrowadzone dane|   |   |
+|3.|Użytkownik może zapisać wrowadzone dane|   |   |
 |4.|Zapisany wniosek jest widoczny na liście wysłanych wniosków|   |   |
 |5.|System informuje użytkownika jeśli popełnił błąd podczas wypełniania formularza|   |   |
 |6.|Wysłany wniosek jest widoczny w panelu przełożonego|   |   |
