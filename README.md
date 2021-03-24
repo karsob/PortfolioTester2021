@@ -1,5 +1,5 @@
 # PorfolioTester
-1. [Opis repozytorium zgłaszanych błędów](#Opis-repozytorium-zgłaszanych-błędów)
+1. [Opis repozytorium zgłoszonych błędów](#Opis-repozytorium-zgłaszanych-błędów)
 2. [Przykładowy scenariusz UAT](#Przykładowy-scenariusz-UAT-dla-utworzenia-wniosku-o-delegację)
 3. [Dodatkowe projekty](#Dodatkowe-projekty)
 
