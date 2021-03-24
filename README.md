@@ -1,6 +1,6 @@
 # PorfolioTester
 1. [Opis repozytorium zgłoszonych błędów](#Opis-repozytorium-zgłaszanych-błędów)
-2. [Przykładowy scenariusz UAT](#Przykładowy-scenariusz-UAT-dla-utworzenia-wniosku-o-delegację)
+2. [Przykład scenariuszu UAT do aplikacji webowej](#Scenariusz-UAT-dla-utworzenia-wniosku-o-delegację-w-aplikacji-obiegu-dokumentów)
 3. [Dodatkowe projekty](#Dodatkowe-projekty)
 
 ## Opis repozytorium zgłaszanych błędów
@@ -8,7 +8,7 @@
 Repozytorium zawiera zgłoszenia błędów aplikacji webowej obiegu dokumentów w przedsiębiorstwie. Screenshoty zgłoszeń zostały usunięte.
 Przykładowe zgłoszenia znajdują się w zakładce "Issues". Każdy znaleziony błąd został odzwierciedlony w postaci osobnego ticketu.
 
-## Przykładowy scenariusz UAT dla utworzenia wniosku o delegację
+## Scenariusz UAT dla utworzenia wniosku o delegację w aplikacji obiegu dokumentów
 
 ### Przypadek użycia:
 
