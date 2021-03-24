@@ -2,11 +2,9 @@
 Repozytorium zawiera zgłoszenia błędów aplikacji webowej do obiegu dokumentów w przedsiębiorstwie.
 Screenshoty zgłoszeń zostały usunięte.
 
-## Zadanie 1.
-Rozwiązanie zadania numer 1 znajduje się w zakładce "Issues" tego repozytorium. Każdy znaleziony przezemnie błąd został odzwierciedlony w postaci osobnego ticketu.
+Przykładowe zgłoszenia znajdują się w zakładce "Issues" tego repozytorium. Każdy znaleziony przeze mnie błąd został odzwierciedlony w postaci osobnego ticketu.
 
-## Zadanie 2.
-Scenariusz UAT dla utworzenia wniosku o delegację:
+Przykładowy scenariusz UAT dla utworzenia wniosku o delegację:
 
 ### Przypadek użycia:
 
