@@ -1,5 +1,5 @@
 # ZadanieTesterDelegacje
-Repozytorium zawiera zgłoszenia błędów aplikacji webowej do obiegu dokumentów w przedsiębiorstwie.
+Repozytorium zawiera zgłoszenia błędów aplikacji webowej obiegu dokumentów w przedsiębiorstwie.
 Screenshoty zgłoszeń zostały usunięte.
 
 Przykładowe zgłoszenia znajdują się w zakładce "Issues" tego repozytorium. Każdy znaleziony przeze mnie błąd został odzwierciedlony w postaci osobnego ticketu.
