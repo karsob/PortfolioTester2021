@@ -1,10 +1,14 @@
 # PorfolioTester
+1. [Opis](#Portfoliotester)
+2. [Przykładowy scenariusz UAT](#Przykładowy-scenariusz-UAT-dla-utworzenia-wniosku-o-delegację)
+3. [Dodatkowe projekty](#Dodatkowe-projekty)
+
 Repozytorium zawiera zgłoszenia błędów aplikacji webowej obiegu dokumentów w przedsiębiorstwie.
 Screenshoty zgłoszeń zostały usunięte.
 
 Przykładowe zgłoszenia znajdują się w zakładce "Issues" tego repozytorium. Każdy znaleziony przeze mnie błąd został odzwierciedlony w postaci osobnego ticketu.
 
-Przykładowy scenariusz UAT dla utworzenia wniosku o delegację:
+## Przykładowy scenariusz UAT dla utworzenia wniosku o delegację:
 
 ### Przypadek użycia:
 
@@ -38,6 +42,6 @@ Użytkownik loguje się do systemu za pomocą swojego konta
 |7.|Przełożony otrzymał wiadomość e-mail z informacją o nowym wniosku do rozpatrzenia|   |   |
 
 
-### Dodatkowe projekty
+## Dodatkowe projekty
 1. [Dokumentacja techniczna strony logowania Google Accounts](https://docs.google.com/document/d/1d-hRh7o3G3aEorWpolVxUAhZmmRWtQ4PwCb4Xjqr-HE/edit?usp=sharing)
 2. [Scenariusze testowe i błędy strony logowania](https://docs.google.com/spreadsheets/d/1LT2JtvqrSlSXxnVMTA1h44Mfv5aKmXaOLm_AhHKbPek/edit?usp=sharing)
