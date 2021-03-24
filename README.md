@@ -1,7 +1,7 @@
 # PorfolioTester
 1. [Opis repozytorium zgłoszonych błędów](#Opis-repozytorium-zgłaszanych-błędów)
 2. [Przykład scenariuszu UAT do aplikacji webowej](#Scenariusz-UAT-dla-utworzenia-wniosku-o-delegację-w-aplikacji-obiegu-dokumentów)
-3. [Dodatkowe projekty](#Dodatkowe-projekty)
+3. [Dodatkowe projekty w formie donośników do plików google](#Dodatkowe-projekty)
 
 ## Opis repozytorium zgłaszanych błędów
 
